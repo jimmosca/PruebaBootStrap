@@ -1,0 +1,40 @@
+
+h2{
+  text-align: center;
+  border-bottom:  solid #ed704e 0.3vw;
+}
+h3, p{
+  text-align: center;
+  border-radius: 1vw;
+}
+.row{
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+}
+.section1{
+background-color: #4A4443;
+}
+.pInfo{
+  border: none;
+  margin: 1rem;
+  color: white;
+}
+.section2{
+  background-color: #e6e4e1;
+}
+.skills1{
+background-color:  #DBFEFF;
+}
+.skills2{
+background-color:  #D4DAF7;
+}
+.section3{
+  background-color: #C4C3C0;
+}
+.lorem1{
+  background-color: #EDE5D0;
+}
+.lorem2{
+  background-color: #e6e4e1;
+}
